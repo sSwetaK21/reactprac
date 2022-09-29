@@ -1,0 +1,21 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+
+
+
+
+
+
+.login {
+  display: flex;
+  /* width: 300px; */
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+body{
+  text-align: center;
+}

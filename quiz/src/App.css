@@ -1,0 +1,29 @@
+*{
+  margin: 0px;
+  padding: 0px
+}
+
+.fromdiv {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+
+
+form {
+  display: flex;
+  flex-direction: column;
+  width: 300px;
+  background-color: mediumpurple;
+  padding: 30px;
+  margin: 10px;
+
+}
+button {
+  padding: 6px 9px;
+  border-radius: 25px;
+  border: none;
+  cursor: pointer;
+}
